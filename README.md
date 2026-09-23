@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Frontend & Backend Technologies**.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **JavaScript, Web Development, and Git**.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **onia8098@gmail.com**
 
 ---
 
