@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=220&section=header&text=ONI%20AHMED&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Oni Ahmed</h1>
 <h3 align="center">A passionate Developer & Learner from Bangladesh</h3>
 
